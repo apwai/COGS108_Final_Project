@@ -9,7 +9,7 @@
         "marker-symbol": "",
         "tname": "Dolphins",
         "cname": "Miami",
-        "temp": 76.254386
+        "temp": 67.3994708994709
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "marker-symbol": "",
         "tname": "Oilers",
         "cname": "Houston",
-        "temp": "79.000000"
+        "temp": "61.9375"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "marker-symbol": "",
         "tname": "Chargers",
         "cname": "San Diego",
-        "temp": 63.828877
+        "temp": 60.59726962457338
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "marker-symbol": "",
         "tname": "Packers",
         "cname": "Green Bay",
-        "temp": 42.695652
+        "temp": 45.914956011730204
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
         "marker-symbol": "",
         "tname": "Falcons",
         "cname": "Atlanta",
-        "temp": 57.644231
+        "temp": 57.02840909090909
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "marker-symbol": "",
         "tname": "Bills",
         "cname": "Buffalo",
-        "temp": 48.238411
+        "temp": 50.810344827586206
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "marker-symbol": "",
         "tname": "Lions",
         "cname": "Detroit",
-        "temp": 46.171429
+        "temp": 51.16935483870968
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "marker-symbol": "",
         "tname": "Steelers",
         "cname": "Pittsburgh",
-        "temp": 61.5
+        "temp": 49.101736972704714
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +153,7 @@
         "marker-symbol": "",
         "tname": "49ers",
         "cname": "San Francisco",
-        "temp": 58.5
+        "temp": 56.6875
       },
       "geometry": {
         "type": "Point",
@@ -166,9 +166,12 @@
     {
       "type": "Feature",
       "properties": {
+	    "marker-color": "#ffbfbf",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "tname": "Cardinals",
         "cname": "St. Louis",
-        "temp": "51.2625"
+        "temp": 52.07971014492754
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +189,7 @@
         "marker-symbol": "",
         "tname": "Redskins",
         "cname": "Washington",
-        "temp": 52.809524
+        "temp": 54.40112994350282
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +207,7 @@
         "marker-symbol": "",
         "tname": "Rams",
         "cname": "Los Angeles",
-        "temp": 63.208955
+        "temp": 59.41125541125541
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +225,7 @@
         "marker-symbol": "",
         "tname": "Browns",
         "cname": "Cleveland",
-        "temp": 49.236025
+        "temp": 50.10294117647059
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +243,7 @@
         "marker-symbol": "",
         "tname": "Cowboys",
         "cname": "Dallas",
-        "temp": 60.974249
+        "temp": 58.382716049382715
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +261,7 @@
         "marker-symbol": "",
         "tname": "Broncos",
         "cname": "Denver",
-        "temp": 45.245098
+        "temp": 51.367123287671234
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +279,7 @@
         "marker-symbol": "",
         "tname": "Vikings",
         "cname": "Minnesota",
-        "temp": 42.525
+        "temp": 48.49767441860465
       },
       "geometry": {
         "type": "Point",
@@ -289,9 +292,12 @@
     {
       "type": "Feature",
       "properties": {
+	    "marker-color": "#ff9c9c",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "tname": "Jets",
         "cname": "New York",
-        "temp": "53.030675"
+        "temp": 55.089928057553955
       },
       "geometry": {
         "type": "Point",
@@ -309,7 +315,7 @@
         "marker-symbol": "",
         "tname": "Raiders",
         "cname": "Oakland",
-        "temp": 57.613208
+        "temp": 56.56956521739131
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +333,7 @@
         "marker-symbol": "",
         "tname": "Eagles",
         "cname": "Philadelphia",
-        "temp": 51.985149
+        "temp": 53.578947368421055
       },
       "geometry": {
         "type": "Point",
@@ -345,7 +351,7 @@
         "marker-symbol": "",
         "tname": "Colts",
         "cname": "Baltimore",
-        "temp": 49.617647
+        "temp": 51.45454545454545
       },
       "geometry": {
         "type": "Point",
@@ -358,9 +364,12 @@
     {
       "type": "Feature",
       "properties": {
+	    "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "tname": "Patriots",
         "cname": "Boston",
-        "temp": "47.833333"
+        "temp": 46.5
       },
       "geometry": {
         "type": "Point",
@@ -378,7 +387,7 @@
         "marker-symbol": "",
         "tname": "Giants",
         "cname": "New York",
-        "temp": 52.422619
+        "temp": 54.10248447204969
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +405,7 @@
         "marker-symbol": "",
         "tname": "Bears",
         "cname": "Chicago",
-        "temp": "47.284360"
+        "temp": 50.2952380952381
       },
       "geometry": {
         "type": "Point",
@@ -414,7 +423,7 @@
         "marker-symbol": "",
         "tname": "Saints",
         "cname": "New Orleans",
-        "temp": 67.472222
+        "temp": 58.419117647058826
       },
       "geometry": {
         "type": "Point",
@@ -432,7 +441,7 @@
         "marker-symbol": "",
         "tname": "Chiefs",
         "cname": "Kansas City",
-        "temp": 50.588832
+        "temp": 52.31683168316832
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +459,7 @@
         "marker-symbol": "",
         "tname": "Bengals",
         "cname": "Cincinnati",
-        "temp": 48.641711
+        "temp": 49.88172043010753
       },
       "geometry": {
         "type": "Point",
@@ -468,7 +477,7 @@
         "marker-symbol": "",
         "tname": "Patriots",
         "cname": "New England",
-        "temp": 49.265
+        "temp": 51.98776758409786
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +495,7 @@
         "marker-symbol": "",
         "tname": "Buccaneers",
         "cname": "Tampa Bay",
-        "temp": 71.863636
+        "temp": 67.71428571428571
       },
       "geometry": {
         "type": "Point",
@@ -504,7 +513,7 @@
         "marker-symbol": "",
         "tname": "Raiders",
         "cname": "Los Angeles",
-        "temp": 62.984127
+        "temp": 59.87735849056604
       },
       "geometry": {
         "type": "Point",
@@ -517,9 +526,12 @@
     {
       "type": "Feature",
       "properties": {
+	    "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "tname": "Cardinals",
         "cname": "Phoenix",
-        "temp": "67.6"
+        "temp": 68.67857142857143
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +549,7 @@
         "marker-symbol": "",
         "tname": "Cardinals",
         "cname": "Arizona",
-        "temp": 69.18
+        "temp": 63.89333333333333
       },
       "geometry": {
         "type": "Point",
@@ -555,7 +567,7 @@
         "marker-symbol": "",
         "tname": "Seahawks",
         "cname": "Seattle",
-        "temp": 50.46875
+        "temp": 54.16875
       },
       "geometry": {
         "type": "Point",
@@ -573,7 +585,7 @@
         "marker-symbol": "",
         "tname": "Jaguars",
         "cname": "Jacksonville",
-        "temp": 68.929825
+        "temp": 63.0703125
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +603,7 @@
         "marker-symbol": "",
         "tname": "Rams",
         "cname": "St. Louis",
-        "temp": "64.0"
+        "temp": 56.71052631578947
       },
       "geometry": {
         "type": "Point",
@@ -609,7 +621,7 @@
         "marker-symbol": "",
         "tname": "Panthers",
         "cname": "Carolina",
-        "temp": "59.0"
+        "temp": 56.37719298245614
       },
       "geometry": {
         "type": "Point",
@@ -627,7 +639,7 @@
         "marker-symbol": "",
         "tname": "Ravens",
         "cname": "Baltimore",
-        "temp": 52.707071
+        "temp": 53.73154362416108
       },
       "geometry": {
         "type": "Point",
@@ -642,7 +654,7 @@
       "properties": {
         "tname": "Oilers",
         "cname": "Tennessee",
-        "temp": "59.333333"
+        "temp": 61.9375
       },
       "geometry": {
         "type": "Point",
@@ -660,7 +672,7 @@
         "marker-symbol": "",
         "tname": "Titans",
         "cname": "Tennessee",
-        "temp": 57.5
+        "temp": 56.6283185840708
       },
       "geometry": {
         "type": "Point",
@@ -678,7 +690,7 @@
         "marker-symbol": "",
         "tname": "Texans",
         "cname": "Houston",
-        "temp": "91.0"
+        "temp": 60.96774193548387
       },
       "geometry": {
         "type": "Point",
